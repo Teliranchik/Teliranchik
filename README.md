@@ -1,7 +1,7 @@
 ► 👋 Hi, I’m @Teliranchik
 ► 👀 I'm interested in game development
 ► 🌱 I am currently learning to work in Java, Python and Html
-► 💞️ I’m looking to collaborate on...  I'm just getting to know the world of programming, and in the future I hope to cooperate with game studios.
+► 💞️ I’m looking to collaborate on...I'm just getting to know the world of programming, and in the future I hope to cooperate with game studios.
 ► 📫 How to contact me: happytelik@gmail.com
 ► 🤖 Pronouns: he, him
 ► ⚡ Fun fact: unfortunately, there are no funny facts :(
